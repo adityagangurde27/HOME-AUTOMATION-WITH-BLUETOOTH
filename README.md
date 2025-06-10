@@ -1,1 +1,15 @@
 # HOME-AUTOMATION-WITH-BLUETOOTH
+
+**COMPANY**: CODETECH IT SOLUTIONS
+
+**NAME**: ADITYA GANGURDE
+
+**INTERN ID**: CT04DF2808
+
+**DOMAIN**: Embedded Systems
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTOSH
+
+# DESCRIPTION : In this project, we designed a Bluetooth-controlled home automation system that enables wireless switching of electrical devices using a smartphone. The system uses a microcontroller interfaced with a Bluetooth module and relays to receive commands and control appliances like lights and fans. The project includes a detailed circuit diagram, the complete control code, and a working demonstration showcasing seamless device operation through a mobile app.
